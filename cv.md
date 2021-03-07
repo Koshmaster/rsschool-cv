@@ -15,7 +15,7 @@
 
 ###### Graduated from High School №2 Shchuchin, with a gold medal. At the moment I am studying at the *Belarusian State *University* at the Faculty of Radiophysics and Computer Technologies, specializing in applied informatics. Also I played table tennis at a good level.
 
-## **Examples of task solutions **
+## Examples of task solutions 
 
 #### **JS**
 
