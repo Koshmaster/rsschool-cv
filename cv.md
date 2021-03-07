@@ -15,3 +15,34 @@
 
 ###### Graduated from High School №2 Shchuchin, with a gold medal. At the moment I am studying at the *Belarusian State *University* at the Faculty of Radiophysics
 ###### and Computer Technologies, specializing in applied informatics. Also I played table tennis at a good level.
+
+## **Examples of task solutions **
+
+#### **JS**
+
+```
+function even_or_odd(number) {
+  if (number % 2 == 0)
+    return "Even";
+  else return "Odd";
+}
+
+```
+
+#### **C++**
+
+```
+int main()
+{
+  using namespace std;
+  int a = 0, b = 0;
+  cout << "a = ";
+  cin >> a;
+  cout << "b = ";
+  cin >> b;
+  cout << "quotient a:b  = " << a / b << endl;
+  cout << "remainder a:b = " << a % b << endl;
+  return EXIT_SUCCESS;
+}
+
+```
